@@ -1,7 +1,7 @@
 # Classifier Based on Gabriel Graph
 
 - This repository contains the implemtation of Gabriel Graph Classifier (GCC) with some changes that was proposed
-in the final work i the discipline of Pattern Recognition at PPGEE.
+in the final work in the course of Pattern Recognition at PPGEE.
 
 - Also constains a very simple benchmarking code, as well as the datasets used.
 
